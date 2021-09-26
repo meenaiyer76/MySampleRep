@@ -1,0 +1,16 @@
+C:\Users\Nithya\source\repos\GITEg\Sample\bin\Debug\net5.0\Sample.exe
+C:\Users\Nithya\source\repos\GITEg\Sample\bin\Debug\net5.0\Sample.deps.json
+C:\Users\Nithya\source\repos\GITEg\Sample\bin\Debug\net5.0\Sample.runtimeconfig.json
+C:\Users\Nithya\source\repos\GITEg\Sample\bin\Debug\net5.0\Sample.runtimeconfig.dev.json
+C:\Users\Nithya\source\repos\GITEg\Sample\bin\Debug\net5.0\Sample.dll
+C:\Users\Nithya\source\repos\GITEg\Sample\bin\Debug\net5.0\ref\Sample.dll
+C:\Users\Nithya\source\repos\GITEg\Sample\bin\Debug\net5.0\Sample.pdb
+C:\Users\Nithya\source\repos\GITEg\Sample\obj\Debug\net5.0\Sample.csproj.AssemblyReference.cache
+C:\Users\Nithya\source\repos\GITEg\Sample\obj\Debug\net5.0\Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nithya\source\repos\GITEg\Sample\obj\Debug\net5.0\Sample.AssemblyInfoInputs.cache
+C:\Users\Nithya\source\repos\GITEg\Sample\obj\Debug\net5.0\Sample.AssemblyInfo.cs
+C:\Users\Nithya\source\repos\GITEg\Sample\obj\Debug\net5.0\Sample.csproj.CoreCompileInputs.cache
+C:\Users\Nithya\source\repos\GITEg\Sample\obj\Debug\net5.0\Sample.dll
+C:\Users\Nithya\source\repos\GITEg\Sample\obj\Debug\net5.0\ref\Sample.dll
+C:\Users\Nithya\source\repos\GITEg\Sample\obj\Debug\net5.0\Sample.pdb
+C:\Users\Nithya\source\repos\GITEg\Sample\obj\Debug\net5.0\Sample.genruntimeconfig.cache
